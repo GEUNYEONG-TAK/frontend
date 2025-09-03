@@ -35,17 +35,17 @@ const Home = () => {
   const categories = [
     {
       title: 'Electronics',
-      image: 'https://shop-image-sample-bucket.s3.ap-northeast-2.amazonaws.com/products/IT/electrics.png',
+      image: 'https://shop-imag-user20.s3.ap-northeast-2.amazonaws.com/products/IT/headphone.png',
       description: 'Latest gadgets and devices'
     },
     {
       title: 'Fashion',
-      image: 'https://shop-image-sample-bucket.s3.ap-northeast-2.amazonaws.com/products/fashion/fashion.png',
+      image: 'https://shop-imag-user20.s3.ap-northeast-2.amazonaws.com/products/IT/laptop.png',
       description: 'Trendy clothing and accessories'
     },
     {
       title: 'Home & Living',
-      image: 'https://shop-image-sample-bucket.s3.ap-northeast-2.amazonaws.com/products/living/living.png',
+      image: 'https://shop-imag-user20.s3.ap-northeast-2.amazonaws.com/products/IT/smartphone.png',
       description: 'Everything for your home'
     }
   ];
